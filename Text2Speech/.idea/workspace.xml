@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ff07c60-886c-4a86-b3b9-94d13adf890e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2MgHYRhGRYx9BWxDMeMmAEbnO2s" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SOURCE-MINI-PROJECT-VIKAS-ASHU" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.window" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ff07c60-886c-4a86-b3b9-94d13adf890e" name="Default Changelist" comment="" />
+      <created>1678182354386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678182354386</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom" timestamp="1678182492275">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1678182492275" />
+    <state width="1345" height="181" key="GridCell.Tab.0.center" timestamp="1678182492274">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1678182492274" />
+    <state width="1345" height="181" key="GridCell.Tab.0.left" timestamp="1678182492274">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1678182492274" />
+    <state width="1345" height="181" key="GridCell.Tab.0.right" timestamp="1678182492274">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state width="1345" height="181" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1678182492274" />
+    <state x="184" y="42" key="SettingsEditor" timestamp="1678182415358">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="184" y="42" key="SettingsEditor/0.32.1366.736@0.32.1366.736" timestamp="1678182415358" />
+  </component>
+</project>
